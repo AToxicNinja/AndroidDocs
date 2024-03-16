@@ -4,7 +4,7 @@ This privacy policy applies to the Ghosts of Tabor Helper app (hereby referred t
 
 **Information Collection and Use**
 
-The Application collects no information however if installed using Google Play Services some information may be collected by Google. Please see the Third Party's Privacy Policies about handling data. Below are the links to the Privacy Policy of the third-party service providers potentially used by the Application:
+The Application collects no information however if installed using Google Play Services some information may be collected by Google. Additionally any Advertisements are served using AdMob platform which may collect its own data. Please see the Third Party's Privacy Policies about handling data, linked below.
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
